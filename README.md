@@ -5,11 +5,11 @@ My progress through the [Rustlings](https://github.com/rust-lang/rustlings) Rust
 <!-- RUSTLINGS-PROGRESS:START -->
 ## Progress
 
-**58 / 94 exercises complete (62%)**
+**75 / 94 exercises complete (80%)**
 
-`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜`
+`🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜`
 
-Currently working on: **traits1**
+Currently working on: **box1**
 
 | Category | Done |
 | --- | --- |
@@ -20,15 +20,19 @@ Currently working on: **traits1**
 | hashmaps | 3 |
 | if | 3 |
 | intro | 2 |
+| iterators | 5 |
+| lifetimes | 3 |
 | modules | 3 |
 | move_semantics | 5 |
 | options | 3 |
 | primitive_types | 6 |
-| quizzes | 2 |
+| quizzes | 3 |
 | strings | 4 |
 | structs | 3 |
+| tests | 3 |
+| traits | 5 |
 | variables | 6 |
 | vecs | 2 |
 
-_Last updated: 2026-10-24 20:45 UTC_
+_Last updated: 2026-10-25 20:20 UTC_
 <!-- RUSTLINGS-PROGRESS:END -->
